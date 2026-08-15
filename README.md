@@ -25,3 +25,34 @@ Compilation:
 Execution:
 
     ./a.out c17
+
+
+Notes:
+
+
+c1.lev :  Fig. 3.22, Pg. 133
+
+c2.lev:   Fig. 4.6,  Pg. 168
+
+c15.lev:  Fig. 4.35, Pg. 201
+
+c15a.lev: Fig. 4.11, Pg. 175
+
+
+
+c1:   21/22
+
+c2:   16/21
+
+c15:  19/26
+
+c15a: 6/12
+
+c17:  38/38
+
+
+c499: 1118/1126         Fault Simulate: 1112/1126
+
+c432: 544/738           Fault SImulate: 699/738
+
+c880: 1572/1578         Fault Simulate: 1574/1578
